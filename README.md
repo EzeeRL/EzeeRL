@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/EzeeRL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;React%20%7C%20Next.js%20%7C%20TypeScript;Experiencia%20en%20proyectos%20reales;Siempre%20aprendiendo%20nuevas%20tecnolog%C3%ADas;Conectemos%20en%20LinkedIn%20%F0%9F%91%8B&center=true&width=440&height=45&font=Fira%20Code"></a>
+  <a href="https://github.com/EzeeRL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;React%20%7C%20Next.js%20%7C%20TypeScript;Experiencia%20en%20proyectos%20reales;Siempre%20aprendiendo%20;Conectemos%20en%20LinkedIn%20%F0%9F%91%8B&center=true&width=440&height=45&font=Fira%20Code"></a>
 </p>
 
 ---
